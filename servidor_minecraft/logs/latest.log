@@ -820,3 +820,10 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [00:59:01] [Server thread/INFO] [FML]: Unloading dimension 1
 [00:59:01] [Server thread/INFO] [FML]: Unloading dimension -1
 [00:59:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[01:11:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:11:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:11:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:11:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:11:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[01:11:12] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:11:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
